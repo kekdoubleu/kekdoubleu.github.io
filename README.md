@@ -1,10 +1,3 @@
----
-layout: default
-title: BLAST Database
----
-
-# Blast Database
-
 <html>
 <head>
 <meta charset="utf-8">
