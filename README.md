@@ -1,4 +1,3 @@
-<html>
 <head>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -117,4 +116,3 @@ h(Math,"atanh",xr.atanh,Math.atanh(1e-300)===0);h(Math,"tanh",xr.tanh,Math.tanh(
 </script>
 
 </body>
-</html>
