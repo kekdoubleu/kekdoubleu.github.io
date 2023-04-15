@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -45,7 +47,7 @@ src=https://raw.githubusercontent.com/kekdoubleu/Imgs-ER/main/Github%20img.png&g
 
 &lt;h2 style=&quot;color:Red;&quot;&gt; WARNING!!! &lt;/h2&gt;
 &lt;p&gt;&lt;h3&gt;
-Mutational analysis identified with 95% confidence the plasmids pXO1 and pXO2, which carry the genes &lt;i&gt;straA&lt;/i&gt;, &lt;i&gt;aadA7&lt;/i&gt; and &lt;i&gt;qnrB2&lt;/i&gt; for &lt;i&gt;B. anthracis &lt;/i&gt;.
+99.9% compatibility with&lt;i&gt;B. anthracis &lt;/i&gt; Mutational analysis identified with 95% confidence the plasmids pXO1 and pXO2, which carry the genes &lt;i&gt;straA&lt;/i&gt;, &lt;i&gt;bla TEM-1&lt;/i&gt;, &lt;i&gt;tet(A)&lt;/i&gt; and &lt;i&gt;qnrB2&lt;/i&gt;.
 &lt;/h3&gt;
 Consult the Head Researcher and go to the emergency box with antibiotics.
 
@@ -116,3 +118,4 @@ h(Math,"atanh",xr.atanh,Math.atanh(1e-300)===0);h(Math,"tanh",xr.tanh,Math.tanh(
 </script>
 
 </body>
+</html>
