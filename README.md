@@ -28,7 +28,7 @@
 (set: $correct_usernameendgame1 to false)
 }</tw-passagedata><tw-passagedata pid="2" name="start" tags="" position="475,325" size="100,100">(if: $command is $login)[\
 	Enter a Sequence 
-		//-&gt;(link: &quot;#####&quot;)[{
+		//-&gt;(link: &quot;#############&quot;)[{
 		(set: $username to (prompt: &quot;{}&quot;, &quot;&quot;))
 		(print: $username)
 		(replace: ?results)[(display: &quot;Username and Password&quot;)]
